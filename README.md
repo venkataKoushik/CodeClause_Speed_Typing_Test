@@ -39,3 +39,4 @@ You can customize the game by changing the following variables in the script:
 - `FONT_NAME`, `RED`, `BLUE`, and `BLACK`: The font and color settings for the text in the window.
 
 ## Sample Output
+<img src="Screenshot 2023-07-28 221914.png">
